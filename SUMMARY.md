@@ -16,3 +16,4 @@
 * [麦田劳改所](part4/README.md)
   - [麦田劳改所——剧情卡](part4/note1.md)
 * [归来](part6/README.md)
+* [句子库](part7/README.md)
